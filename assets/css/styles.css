@@ -406,6 +406,15 @@ body.dark-theme {
   font-size: var(--smaller-font-size);
 }
 
+/*=============== SKILLS ===============*/
+.aboutme_text {
+  width: 300px;
+  border: 3.5px solid var(--first-color);
+  text-align: center;
+  margin: auto;
+  padding: 25px;
+}
+
 /* Hide and show projects & skills */
 .filters [data-content] {
   display: none;
