@@ -6,4 +6,4 @@ Sito con presente piccola bio, una sezione per vedere i miei progetti, collegati
 - [Css](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-Il sito è stato preso di ispirazione da questo link: https://www.youtube.com/watch?app=desktop&v=mq0xJxOTiYo
+Il sito è stato preso di ispirazione da questo [video](https://www.youtube.com/watch?app=desktop&v=mq0xJxOTiYo)
